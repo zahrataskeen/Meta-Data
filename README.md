@@ -1,1 +1,1 @@
-Meta Data in web page
+Meta Data for web pages.
